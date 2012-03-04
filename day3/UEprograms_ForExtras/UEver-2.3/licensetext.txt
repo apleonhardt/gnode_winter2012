@@ -1,0 +1,23 @@
+
+Copyright 1997-2005 (c) by Sonja Gruen, Markus Diesmann, and Ad Aertsen
+
+You do not have permission to distribute and/or modify this
+software or any part of it.
+
+This program was created in the hope that it will be useful, but WITHOUT 
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or 
+FITNESS FOR A PARTICULAR PURPOSE. 
+
+If you have any problem, please do contact us under the following
+address:
+
+     PD Dr. Sonja Gruen
+     Neuroinformatics
+     Inst. Biology, AG Neurobiology
+     Free University Berlin
+     Koenigin-Luise Str 28-30
+     14195 Berlin
+     Germany
+     tel +49-30-838-56635
+     fax +49-30-838-56686
+

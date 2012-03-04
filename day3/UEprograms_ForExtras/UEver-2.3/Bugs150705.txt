@@ -1,0 +1,10 @@
+SG, Bugs detected, 14.7.05
+
+1. in UEMWAFigure and Significance Figure
+there is not tested if the ids included in 
+'List of Events to plot' is at all existent
+
+2. The print to file in SignPlot does interfere
+   with the GUI: is slows down enormously,
+   the GUI always goes to the front and the 
+   written eps-figures contain the GUI.
